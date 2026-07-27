@@ -21,7 +21,7 @@ So started building the basics, and here it is! It's not a full game, but the co
 🕹️ Controls   
     
     Key	Action
-    W / S	Move Forward / Backward
+    W / S / Arrows	Move Forward / Backward
     A / D	Strafe Left / Right
     Mouse/Arrows Turn Left / Right
     LMB	Shoot
