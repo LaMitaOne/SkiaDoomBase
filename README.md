@@ -3,7 +3,7 @@ A 2.5D raycasting engine prototype built with Delphi FMX and Skia4Delphi.
      
 SkiaDoomBase v.01 alpha       
     
-I recently saw a "Can it run Doom?" video on YouTube. Then I thought... can skia4delphi run Doom? :D    
+I recently saw a "Can it run Doom?" video on YouTube. Then I thought... can skia4delphi run Doom?     
     
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/SkiaDoomBase)
     
