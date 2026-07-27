@@ -6,6 +6,7 @@ I recently saw a "Can it run Doom?" video on YouTube. So I thought... can skia4d
 <img width="781" height="591" alt="photo_2026-07-27_16-09-14" src="https://github.com/user-attachments/assets/31235472-ad24-416c-bf15-1de98c60416b" />
      
 So started building the basics, and here it is! It's not a full game, but the core engine foundation is fully functional.    
+Sooo, i would say...Yes! It can run Doom :D    
     
 🎮 Engine Features
 
