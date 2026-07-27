@@ -23,7 +23,7 @@ So started building the basics, and here it is! It's not a full game, but the co
     Key	Action
     W / S	Move Forward / Backward
     A / D	Strafe Left / Right
-    Mouse	Turn Left / Right
+    Mouse/Arrows Turn Left / Right
     LMB	Shoot
     V	Toggle FPS / OTS View Mode
     
