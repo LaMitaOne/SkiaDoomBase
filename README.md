@@ -45,20 +45,20 @@ This entire engine base is contained within a single Delphi unit file (SkiaDoomB
 Using royalty free audios from https://www.pavsmusic.com/free-sound-pack-kits/    
       
 A zipped .exe and sample project are included in the repository for immediate testing.    
-   
-    
+      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
-   2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
-   2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings   
-   2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols   
+   2D JumpnRun Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
+   2D MegaCatling (Megaman platformer/shooter) https://github.com/LaMitaOne/Skia-MegaCatling     
+   2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
+   2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
+   2D Tetris clone https://github.com/LaMitaOne/Skiatris     
    2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
-   2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life   
-   Tetris clone https://github.com/LaMitaOne/Skiatris        
+   2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
+   2.5D Voxel Raycasting Comanche https://github.com/LaMitaOne/Skia-Voxel-Comanche        
      
 🎮 Game components FMX:    
-   MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core       
-
-   
+   MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
+     
 If you want to tip me a coffee.. :)   
     
 <p align="center">
