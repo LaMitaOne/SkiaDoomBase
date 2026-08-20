@@ -52,6 +52,7 @@ A zipped .exe and sample project are included in the repository for immediate te
    2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
    2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2D Tetris clone https://github.com/LaMitaOne/Skiatris     
+   2D Skia Powder https://github.com/LaMitaOne/Skia-Powder     
    2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
    2.5D Voxel Raycasting Comanche https://github.com/LaMitaOne/Skia-Voxel-Comanche        
